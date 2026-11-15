@@ -1,6 +1,6 @@
 # Proje Pusulası
 
-> **Kaynak kodu herkese açık yayımlandı.** Üçüncü taraf hak zinciri ve bağımsız güvenlik incelemesi henüz doğrulanmamıştır; kapsam ve sınırlamalar için `INCELEME.md` dosyasına bakın.
+> **Kaynak kodu herkese açık yayımlandı.** Astra ile bağımsız kaynak ve yayın incelemesi yapıldı; bağımsız insan/uzman güvenlik denetimi yapılmadı ve üçüncü taraf hak zinciri doğrulanmadı. Kapsam ve sınırlamalar için `INCELEME.md` dosyasına bakın.
 
 ## Türkçe
 
