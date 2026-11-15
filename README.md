@@ -1,6 +1,6 @@
-# Proje Pusulası — inceleme adayı
+# Proje Pusulası
 
-> **Yayınlanmadı.** Yayın kapalıdır: hak zinciri ve son değişikliklerin tam testi tamamlanmamıştır.
+> **Kaynak kodu herkese açık yayımlandı.** Üçüncü taraf hak zinciri ve bağımsız güvenlik incelemesi henüz doğrulanmamıştır; kapsam ve sınırlamalar için `INCELEME.md` dosyasına bakın.
 
 ## Türkçe
 
@@ -20,9 +20,9 @@ On Windows, run `python test/kilitli-test.py` with Node.js and Chrome installed.
 
 ## Rights / Haklar
 
-Kemal has approved open-sourcing his own project code for projects 1–7. This candidate derives from that code; third-party provenance remains to be established. The owner licenses their own contribution under the MIT terms below; this does not grant third-party rights. Do not publish before the Astra final review. See `INCELEME.md`.
+Kemal has approved open-sourcing his own project code for projects 1–7. This project derives from that code; third-party provenance remains to be established. The owner licenses their own contribution under the MIT terms below; this does not grant third-party rights. Independent rights review remains necessary. See `INCELEME.md`.
 
-Kemal 1–7 numaralı kendi proje kodlarının açık kaynak yapılmasını onayladı. Bu aday o koddan türetilmiştir; üçüncü taraf hakları henüz belirlenmedi. Kendi katkısı aşağıdaki MIT koşullarıyla lisanslanmıştır; bu, üçüncü taraf haklarını kapsamaz. Astra son denetiminden önce yayımlamayın. `INCELEME.md` dosyasına bakın.
+Kemal 1–7 numaralı kendi proje kodlarının açık kaynak yapılmasını onayladı. Bu proje o koddan türetilmiştir; üçüncü taraf hakları henüz belirlenmedi. Kendi katkısı aşağıdaki MIT koşullarıyla lisanslanmıştır; bu, üçüncü taraf haklarını kapsamaz. Bağımsız hak incelemesi hâlâ gereklidir. `INCELEME.md` dosyasına bakın.
 
 
 ## Test kapısı / Test gate
